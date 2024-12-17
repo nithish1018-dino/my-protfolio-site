@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nithish M - Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <p>B.Com Student | Aspiring ACCA | Skilled in Tally, MS Excel, and Case Studies</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a> |
+        <a href="#projects">Projects</a> |
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hi, I’m Nithish M, currently pursuing my B.Com 1st semester at PES. I have certifications in Tally, MS Excel, and English typewriting. My goal is to become an ACCA-certified professional.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects & Achievements</h2>
+        <ul>
+            <li>Participated in case studies and research projects.</li>
+            <li>Volunteered for multiple events showcasing teamwork and communication skills.</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:nithish8566@gmail.com.com">nithish8566 @gmail.com</a></p>
+        <p>LinkedIn: <a href="#">Your LinkedIn Profile</a></p>
+    </section>
+</body>
+</html>
